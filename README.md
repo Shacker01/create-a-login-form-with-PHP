@@ -1,2 +1,2 @@
 # create-a-login-form-with-PHP
-# has both login and signup forms.
+# it includes both login and signup forms.
